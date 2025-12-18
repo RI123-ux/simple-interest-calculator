@@ -17,3 +17,4 @@ Where:
 2. Input the annual interest rate.
 3. Input the time in years.
 4. The calculator will output the total interest and final balance.
+Fixing a typo in the documentation
